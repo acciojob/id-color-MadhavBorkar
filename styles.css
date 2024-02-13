@@ -4,16 +4,25 @@
 	background:yellow;
 	border-top-style:solid;
 	border-width:1px;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
 #red{
 	background:red;
-	border-top-style:1px solid;
+	border-top-style:solid;
 	border-color:black;
 	border-width:1px;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
 #green{
 	border-top-style:1px solid;
 	border-color:yellow;
 	background:green;
 	border-width:1px;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
